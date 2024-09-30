@@ -49,13 +49,13 @@ export default function AwardApp({ Component, pageProps }) {
        {
       link: true,
       name: "Bana Oy Ver!",
-      icon: "fal fa-robot",
-      activeIcon: "fab fa-robot",
-      href: "https://top.gg/bot/774043716797071371/vote",
+      icon: "fa fa-plus",
+      activeIcon: "fa fa-plus",
+      href: "https://top.gg/bot/774043716797071371/vote
     },
     {
       link: true,
-      name: "Partners",
+      name: "Partner",
       icon: "fal fa-handshake",
       activeIcon: "fa fa-handshake",
       href: "/partners",
@@ -71,7 +71,7 @@ export default function AwardApp({ Component, pageProps }) {
       />
       <Head>
         <title>
-          MusicMaker
+          BRT
         </title>
       </Head>
       <main className="transition-all duration-200 z-10 absolute inset-0 px-5 h-screen max-w-7xl w-full mx-auto">
